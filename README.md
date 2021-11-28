@@ -6,6 +6,7 @@ Explorations of crime that is happening in MTL, QC, Canada.
 
 - [MontrealCrime Notebook](./MontrealCrime.nb)
   - Notebook that generates series of images that are saved under `data_viz/` folder.
+  - To view published version go [here](https://www.wolframcloud.com/obj/maksim.bober/Published/MontrealCrime.nb).
 - [to_mp4.py](./to_mp4.py)
   - Code that is used to generate an MP4 based from `data_viz/` folder.
 
